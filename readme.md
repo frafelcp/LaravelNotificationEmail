@@ -23,3 +23,4 @@ Documentation for the tutorial can be found at http://miftyisbored.com/tutorial-
 ## License
 
 This code and the tutorial is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+"# LaravelNotificationEmail" 
